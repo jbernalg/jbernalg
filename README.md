@@ -23,7 +23,3 @@
 |---|---|---|---|---|---|
 |![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)|
 
-
-## GitHub Stats! 📊
-  
-[![Jeinfferson's github stats](https://github-readme-stats.vercel.app/api?username=jbernalg&show_icons=true&theme=merko)](https://github.com/jbernalg/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbernalg&layout=compact&theme=merko)](https://github.com/jbernalg/github-readme-stats)
