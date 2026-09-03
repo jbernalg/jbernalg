@@ -4,7 +4,7 @@
 
 - 🏫: I’m a physics graduate.
 - 🔭: I’m currently working on some machine learning and data analysis projects.
-- 🌱: I’am currently learning about ETL processes, Deep Learning, and Databricks. 🧠💻🤖
+- 🌱: I’m currently learning about ETL processes, Deep Learning, and Databricks. 🧠💻🤖
 - 👨🏻‍🏫: I love Data Science and that's why I make Notebooks with content that helps the community. 👨‍👩‍👧‍👦
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
 - ⚡: I play chess, I like motorcycles and listening to good music.! ♟🏍🎧
